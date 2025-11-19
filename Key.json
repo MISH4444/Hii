@@ -1,37 +1,17 @@
-{
-  "config": {
-    "country": "India",
-    "updateAvailable": false,
-    "themeColor": "#4f46e5",
-    "textColor": "#FFFFFF"
+[
+  {
+    "password": "22",
+    "Device Id": "fd5b7efb4a7b9975",
+    "expiry": "2026-09-29"
   },
-  "loginDialog": {
-    "title": "Welcome To DPMods",
-    "subtitle": "If you don't have a key, contact Admin. Otherwise, enter your key and press Login.",
-    "loginButtonText": "Login",
-    "adminButtonText": "Get Key",
-    "adminUrl": "https://t.me/your_channel"
+  {
+    "password": "abc123",
+    "Device Id": "65d42f8e39d57060",
+    "expiry": "2025-10-15"
   },
-  "updateDialog": {
-    "title": "Critical Update!",
-    "subtitle": "A mandatory update is available. You cannot continue without updating.",
-    "downloadButtonText": "Update Now",
-    "downloadUrl": "https://example.com/app.apk",
-    "showAdminButton": true,
-    "adminButtonText": "Help",
-    "adminUrl": "https://t.me/your_channel"
-  },
-  "keys": {
-    "VIP-USER": {
-      "expiry": "2025-12-31",
-      "interval": "1week",
-      "toast": "Welcome back, VIP Legend! 👑"
-    },
-    "TRIAL-KEY": {
-      "expiry": "3d",
-      "interval": "everytime",
-      "toast": "3-Day Trial Started ⏳"
-    },
-    "SIMPLE-KEY": "2025-01-01"
+  {
+    "password": "singlepass",
+    "Device Id": "65d42f8e39d57060",
+    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
   }
-}
+]
